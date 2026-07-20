@@ -1,0 +1,16 @@
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+*.sqlite3
+.DS_Store
+
+# Generated & Runtime Directories
+faiss_index/
+uploads/
+logs/
+ncert/*.pdf
+ncert/*/*.pdf
